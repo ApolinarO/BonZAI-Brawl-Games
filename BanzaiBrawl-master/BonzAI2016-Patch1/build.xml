@@ -1,0 +1,29 @@
+<project name = "lazers" default = "launch">
+	<import file = "common.xml"/>
+	
+	<path id = "lazers.classpath">
+		<pathelement location = "${package}/lazers.jar" />
+	</path>
+	
+	<target name = "deploy" depends = "ai.player">
+	</target>
+	
+	<!-- AI Target(s) -->
+	<target name = "ai.player" >
+		<mkdir dir = "ais/PlayerAI/${bin}" />
+		<compile source = "ais/PlayerAI/" files = "**">
+			<external><classpath refid = "lazers.classpath"/></external>
+		</compile>
+		<build jar = "ais/PlayerAI.jar" source = "./ais/PlayerAI/" main = "" />
+	</target>
+
+	<!-- Run Target(s) -->
+	<target name="run">
+		<java jar = "${package}/lazers.jar" fork = "true" dir = "${package}" />
+	</target>
+
+	<!-- Deploy, then Run Target(s) -->
+	<target name="launch" depends="deploy">
+		<java jar = "${package}/lazers.jar" fork = "true" dir = "${package}" />
+	</target>
+</project>

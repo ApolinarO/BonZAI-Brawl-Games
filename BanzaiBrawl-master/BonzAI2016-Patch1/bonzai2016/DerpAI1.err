@@ -1,0 +1,120 @@
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.ClassCastException: lazers.api.Target cannot be cast to lazers.api.Rotatable
+	at CompetitorAI.action(CompetitorAI.java:130)
+	at bonzai.AIClient$AIThread.run(AIClient.java:150)
+	at java.lang.Thread.run(Thread.java:745)
