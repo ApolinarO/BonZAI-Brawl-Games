@@ -41,4 +41,5 @@ It's worth spending a couple of minutes getting familiar with the documentation.
 
 This one year, some guy managed to retrieve the source code from one of the pre-written AI jar files. So there's that.
 
-## Original Repository: https://github.com/bawilder/BanzaiBrawl
+## Original Repository
+* https://github.com/bawilder/BanzaiBrawl
